@@ -1,0 +1,4 @@
+package clib
+
+func FuncClib() {}
+
