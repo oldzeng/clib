@@ -1,2 +1,2 @@
-module stronggate.com/cgotest/xxx/clib
+module stronggate.com/cgotest/xxx
 go 1.22
